@@ -1,5 +1,5 @@
 # BriVL
-The code repository for our Nature Computational Science submission "Towards artificial general intelligence: self-supervised learning from huge multimodal data".
+The code repository for our Nature Machine Intelligence submission "Make AI imagine: realization via a multimodal foundation model".
 
 ## BriVL (Bridging Vision and Language)
 
