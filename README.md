@@ -1,5 +1,5 @@
 # BriVL
-The code repository for our Nature Communications submission "Make AI imagine: realization via a multimodal foundation model".
+The code repository for our Nature Communications paper "[Towards artificial general intelligence via a multimodal foundation model](https://www.nature.com/articles/s41467-022-30761-2)".
 
 ## BriVL (Bridging Vision and Language)
 
